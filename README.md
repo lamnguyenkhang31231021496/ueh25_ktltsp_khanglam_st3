@@ -1,6 +1,7 @@
 # 🏫University of Economics Ho Chi Minh City
 --- 
 ## 📘Course: Programming Techniques with Stata & Python 
+## 📅Semester: HKC 2025
 --- 
 ## 📝Information
 ### 📚Class: IVP001
